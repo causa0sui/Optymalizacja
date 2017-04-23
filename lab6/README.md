@@ -1,6 +1,6 @@
 
-Solving problem of linear programming
----lp = MixedIntegerLinearProgram(maximization=True)---
+###Solving problem of linear programming
+  lp = MixedIntegerLinearProgram(maximization=True)
 Define the purpose function which contains three variables (x1, x2, x3)
 
 Inputting parametres of A, b, c
